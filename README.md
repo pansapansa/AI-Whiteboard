@@ -6,10 +6,10 @@
 64011512 Pansa Tuangsubsin<br>
 64011373 Chatchaya Miyamoto<br>
 
-# Task 1: Data Acquisition
+##Task 1: Data Acquisition
 
-# Task 2: Data Preparation
+##Task 2: Data Preparation
 
-# Task 3: Model Training and Deployment
+##Task 3: Model Training and Deployment
 
-# Task 4: Model Inference
+##Task 4: Model Inference
